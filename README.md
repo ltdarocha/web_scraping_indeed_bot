@@ -81,7 +81,7 @@ message.columns = ['job_posts']
 
 ### Slack connection/send message
 
-The next step is to send the messages to Slack. A Slack account is needed for this step and an Application has to be created (bot application). Detailed information on how to do that can be found here: https://github.com/ltdarocha/slackbot.
+The next step is to send the messages to Slack. A Slack account is needed for this step and an Application has to be created (bot application). Detailed information on how to do that can be found here: https://github.com/ltdarocha/slack_bot.
 
 After following the steps from the provided link, you will now have a Token for your Bot Application. The following code connects Python with your Bot.
 
